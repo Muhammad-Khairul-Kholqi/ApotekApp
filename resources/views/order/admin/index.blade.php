@@ -9,7 +9,7 @@
             <input type="date" name="search" class="form-control" style="cursor: pointer">
             <button type="submit" class="btn btn-outline-secondary badge bg-primary text-wrap" style="width: 50px">Search</button>
             <button type="submit" class="btn btn-outline-secondary badge bg-primary text-wrap bg-warning" style="width: 50px; margin-left: 10px; border-radius: 0; padding: 5px; border: none"><a href="{{ route('admin.order.data') }}"></a>Return</button>
-        </div>
+        </div>  
     </form>
     <div style="margin-bottom: 50px; margin-top: -30px">
         <h2>Daftar Pembelian Obat🤒</h2>

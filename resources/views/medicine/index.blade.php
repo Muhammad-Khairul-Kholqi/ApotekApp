@@ -15,7 +15,7 @@
                 <th>Nama</th>
                 <th>Tipe</th>
                 <th>Harga</th>
-                <th>Stock</th>
+                <th>Stock</th>w
                 <th>Aksi</th>
             </tr>
         </thead>
